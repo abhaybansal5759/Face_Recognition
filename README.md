@@ -1,11 +1,12 @@
 # Face_Recognition
 
-What steps you have to follow?
-
-  1.Download or clone my Repository to your device .
-  2.type pip install -r requirements.txt in command prompt(this will install required package for project) .
-  3.Create a Training_images folder in a project folder and save the images with proper naming .
-  4.Run main.py file .
+What Steps you have to follow ?
+  
+  1.Download or clone my repository to your device .
+  2.type pip install -r requirement.txt in command prompt (this will install required package for project)
+  3.create a Training_images folder in project folder.
+  4.open main.py file and change all the parh according to your system .
+  5.Run main.py file 
 
 
 Project Explanatioon
@@ -15,4 +16,3 @@ Project Explanatioon
   3. After 2nd step click on Mark attendance button and then your attendance will mark [PRESENT will write in front of your name]
   4. These entry will show in your main folder in Excel sheet format and mark attendace sheet will show from that particular date .
        
-      
