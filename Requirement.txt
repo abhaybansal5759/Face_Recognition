@@ -1,0 +1,11 @@
+---Code Requirements---
+Install Python 
+----Packages----
+Opencv(pip install opencv-python)
+Tkinter(Available in python)
+Pandas(pip install pandas)
+Numpy(pip install numpy)
+face-recognition(pip install face-recognition)
+
+*********************************************************
+Code Editor - Pycharm
