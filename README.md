@@ -2,10 +2,10 @@
 
 What steps you have to follow?
 
-Download or clone my Repository to your device
-type pip install -r requirements.txt in command prompt(this will install required package for project)
-Create a Training_images folder in a project folder and save the images with proper naming .
-Run main.py file
+  1.Download or clone my Repository to your device .
+  2.type pip install -r requirements.txt in command prompt(this will install required package for project) .
+  3.Create a Training_images folder in a project folder and save the images with proper naming .
+  4.Run main.py file .
 
 
 Project Explanatioon
